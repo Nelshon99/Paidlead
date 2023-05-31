@@ -1,0 +1,116 @@
+[22-Jun-2021 16:08:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php:11
+Stack trace:
+#0 /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php(11): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/consultar_total_pedido.php(4): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php on line 11
+[22-Jun-2021 16:08:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php:11
+Stack trace:
+#0 /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php(11): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/consultar_total_p_stock.php(4): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php on line 11
+[22-Jun-2021 16:08:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php:11
+Stack trace:
+#0 /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php(11): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/consultar_total_p_nuevos.php(4): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php on line 11
+[22-Jun-2021 16:08:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php:11
+Stack trace:
+#0 /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php(11): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/consultar_total_p_completados.php(4): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php on line 11
+[22-Jun-2021 16:08:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php:11
+Stack trace:
+#0 /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php(11): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/consultar_tabla_productos.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php on line 11
+[22-Jun-2021 16:08:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php:11
+Stack trace:
+#0 /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php(11): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/consultar_pedidos_del_dia.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php on line 11
+[22-Jun-2021 16:08:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php:11
+Stack trace:
+#0 /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php(11): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/editarEstado.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php on line 11
+[22-Jun-2021 16:08:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php:11
+Stack trace:
+#0 /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php(11): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/editarEstado.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php on line 11
+[22-Jun-2021 16:11:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php:11
+Stack trace:
+#0 /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php(11): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/consultar_total_p_completados.php(4): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php on line 11
+[22-Jun-2021 16:11:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php:11
+Stack trace:
+#0 /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php(11): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/consultar_tabla_productos.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php on line 11
+[22-Jun-2021 16:11:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php:11
+Stack trace:
+#0 /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php(11): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/consultar_pedidos_del_dia.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php on line 11
+[22-Jun-2021 16:11:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php:11
+Stack trace:
+#0 /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php(11): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/consultar_total_pedido.php(4): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php on line 11
+[22-Jun-2021 16:11:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php:11
+Stack trace:
+#0 /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php(11): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/consultar_total_p_stock.php(4): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php on line 11
+[22-Jun-2021 16:11:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php:11
+Stack trace:
+#0 /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php(11): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/consultar_total_p_nuevos.php(4): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php on line 11
+[22-Jun-2021 16:29:32 UTC] PHP Fatal error:  Uncaught PDOException: PDO::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php:11
+Stack trace:
+#0 /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php(11): PDO->__construct('mysql:host=$ser...', 'uvmprchenk1ag', 'O13v511}k31n')
+#1 /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/editar_productos.php(5): require('/home/customer/...')
+#2 {main}
+
+Next PDOException: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php:11
+Stack trace:
+#0 /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php(11): PDO->__construct('mysql:host=$ser...', 'uvmprchenk1ag', 'O13v511}k31n')
+#1 /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/editar_productos.php(5): require('/home/c in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/database.php on line 11
+[29-Jun-2021 17:17:03 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/actualizar_estado_pedido.php on line 32
+[29-Jun-2021 17:18:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::prpeare() in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/actualizar_estado_pedido.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/actualizar_estado_pedido.php on line 16
+[29-Jun-2021 17:19:02 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/actualizar_estado_pedido.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/actualizar_estado_pedido.php on line 115
+[29-Jun-2021 17:19:33 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/actualizar_estado_pedido.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/actualizar_estado_pedido.php on line 115
+[29-Jun-2021 17:21:00 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/actualizar_estado_pedido.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/actualizar_estado_pedido.php on line 115
+[29-Jun-2021 17:21:08 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/actualizar_estado_pedido.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/actualizar_estado_pedido.php on line 115
+[29-Jun-2021 17:22:37 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/customer/www/admin.wholesale.maygelcoronel.com/public_html/action/PHPMailer/PHPMailerAutoload.php on line 45
